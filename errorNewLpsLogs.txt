@@ -1,0 +1,69 @@
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {
+  "cause": {
+    "name": "SocketError",
+    "code": "UND_ERR_SOCKET",
+    "socket": {
+      "localAddress": "2601:8c3:8578:edb0:adde:f64b:c16c:c9f4",
+      "localPort": 56139,
+      "remoteAddress": "2606:4700:4400::6812:24a9",
+      "remotePort": 443,
+      "remoteFamily": "IPv6",
+      "bytesWritten": 592,
+      "bytesRead": 0
+    }
+  }
+}
+error occured in new solana token log callback function, {
+  "cause": {
+    "name": "ConnectTimeoutError",
+    "code": "UND_ERR_CONNECT_TIMEOUT",
+    "message": "Connect Timeout Error"
+  }
+}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
+error occured in new solana token log callback function, {}
