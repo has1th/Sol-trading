@@ -16,7 +16,7 @@ import { storeData } from './utils';
 import path from 'path';
 import { Liquidity, LiquidityPoolKeysV4, LiquidityStateV4, Percent, Token, TokenAmount, poolKeys2JsonInfo } from '@raydium-io/raydium-sdk';
 
-//const wallet = Keypair.fromSecretKey(bs58.decode("4J6nKo8pQvLDgPUPDVjvQT2UJsXMawQRys9hDfPaikHZfTAbGHyEJC1nvom4Ruu238i25SqXkFvadQo8UQMxPuJa"));
+//const wallet = Keypair.fromSecretKey(bs58.decode(""));
 const ray = new PublicKey('675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8')
 const monitoredTokenPrices = {};
 const dataPath = path.join(__dirname, 'data', 'tokenPandL.json');

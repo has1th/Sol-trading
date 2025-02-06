@@ -20,9 +20,8 @@ const dataPath1 = path.join(__dirname, 'data', 'tokenPandL.json');
 const monitoredTokenPrices = {};
 //const initLog = struct([u8('logType'), u64('openTime'), u8('quoteDecimals'), u8('baseDecimals'), u64('quoteLotSize'), u64('baseLotSize'), u64('quoteAmount'), u64('baseAmount'), publicKey('market') ]);
 let wallet: Keypair;
-  const PRIVATE_KEY = "4J6nKo8pQvLDgPUPDVjvQT2UJsXMawQRys9hDfPaikHZfTAbGHyEJC1nvom4Ruu238i25SqXkFvadQo8UQMxPuJa";
-  //const wallet = Keypair.fromSecretKey(Uint8Array.from([36,87,28,193,133,37,155,173,100,228,240,188,212,166,204,74,255,127,193,5,66,224,21,95,3,130,174,61,59,10,201,222,227,127,185,103,83,19,172,9,87,211,205,195,0,83,63,132,165,223,103,229,121,1,181,176,44,90,27,219,97,10,120,218]))
-
+  const PRIVATE_KEY = "";
+  
   wallet = Keypair.fromSecretKey(bs58.decode(PRIVATE_KEY));
   console.log(`Wallet Address: ${wallet.publicKey}`);
   const ray = new PublicKey('675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8')

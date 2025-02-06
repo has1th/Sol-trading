@@ -8,9 +8,9 @@ import {
   PublicKey,
 } from '@solana/web3.js';
 
-const PRIVATE_KEY = "4J6nKo8pQvLDgPUPDVjvQT2UJsXMawQRys9hDfPaikHZfTAbGHyEJC1nvom4Ruu238i25SqXkFvadQo8UQMxPuJa";
+const PRIVATE_KEY = "";
 export const wallet = Keypair.fromSecretKey(bs58.decode(PRIVATE_KEY));
-//export const wallet = Keypair.fromSecretKey(bs58.decode("4J6nKo8pQvLDgPUPDVjvQT2UJsXMawQRys9hDfPaikHZfTAbGHyEJC1nvom4Ruu238i25SqXkFvadQo8UQMxPuJa"));
+//export const wallet = Keypair.fromSecretKey(bs58.decode(""));
 
 //export const connection = new Connection("https://mainnet.helius-rpc.com/?api-key=c4f0d899-0b1c-48c5-8666-b059d34549b6")
 

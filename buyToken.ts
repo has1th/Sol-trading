@@ -11,7 +11,7 @@ import { solanaConnection } from './constants';
 import { Bundle, Bundle as JitoBundle } from 'jito-ts/dist/sdk/block-engine/types.js';
 import { searcherClient } from './jito';
 import axios, { AxiosError } from 'axios';
-const wallet = Keypair.fromSecretKey(bs58.decode("4J6nKo8pQvLDgPUPDVjvQT2UJsXMawQRys9hDfPaikHZfTAbGHyEJC1nvom4Ruu238i25SqXkFvadQo8UQMxPuJa"));
+const wallet = Keypair.fromSecretKey(bs58.decode(""));
 const ray = new PublicKey('675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8')
 
 const TIP_ACCOUNTS = [
